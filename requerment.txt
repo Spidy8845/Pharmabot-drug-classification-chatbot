@@ -1,0 +1,9 @@
+langchain 
+langchain_community
+faiss-cpu
+sentence-transformers
+tiktoken
+streamlit
+os
+google-cloud
+googlegenerativeai
