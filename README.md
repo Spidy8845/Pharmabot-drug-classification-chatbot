@@ -36,6 +36,6 @@ Step 3: If the drug is not found in the dataset, it will be considered as a new 
 ## Setup
 
 1. Clone this repository to your local machine.
-2. Navigate to the project directory.
+2. Navigate to the directory.
 3. Install all dependencies listed in `requirements.txt` using `pip install -r requirements.txt`.
 4. Run the main.py to initiate the bot and start asking queries for the formulations present in the csv file named "data".
